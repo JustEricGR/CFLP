@@ -1,8 +1,8 @@
 int a = 3;
 int b = 5;
 ex1(ref a, ref b);
-//Console.WriteLine("a = " + a + " b = " + b);
-//Console.WriteLine(ex2(new Coords(1, 1), new Coords(3, 3)));
+Console.WriteLine("a = " + a + " b = " + b);
+Console.WriteLine(ex2(new Coords(1, 1), new Coords(3, 3)));
 ex3();
 
 static void ex1(ref int x, ref int y)
