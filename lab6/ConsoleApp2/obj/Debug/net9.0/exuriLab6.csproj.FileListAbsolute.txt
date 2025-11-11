@@ -1,0 +1,15 @@
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\bin\Debug\net9.0\exuriLab6.exe
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\bin\Debug\net9.0\exuriLab6.deps.json
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\bin\Debug\net9.0\exuriLab6.runtimeconfig.json
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\bin\Debug\net9.0\exuriLab6.dll
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\bin\Debug\net9.0\exuriLab6.pdb
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.AssemblyInfoInputs.cache
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.AssemblyInfo.cs
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.sourcelink.json
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.dll
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\refint\exuriLab6.dll
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.pdb
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\exuriLab6.genruntimeconfig.cache
+C:\Users\ericr\Desktop\poli\anul3\cflp\CFLP\lab6\ConsoleApp2\obj\Debug\net9.0\ref\exuriLab6.dll

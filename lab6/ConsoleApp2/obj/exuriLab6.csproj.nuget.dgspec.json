@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ericr\\Desktop\\poli\\anul3\\cflp\\CFLP\\lab6\\ConsoleApp2\\exuriLab6.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ericr\\Desktop\\poli\\anul3\\cflp\\CFLP\\lab6\\ConsoleApp2\\exuriLab6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ericr\\Desktop\\poli\\anul3\\cflp\\CFLP\\lab6\\ConsoleApp2\\exuriLab6.csproj",
+        "projectName": "exuriLab6",
+        "projectPath": "C:\\Users\\ericr\\Desktop\\poli\\anul3\\cflp\\CFLP\\lab6\\ConsoleApp2\\exuriLab6.csproj",
+        "packagesPath": "C:\\Users\\ericr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ericr\\Desktop\\poli\\anul3\\cflp\\CFLP\\lab6\\ConsoleApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ericr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\ericr\\.dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
