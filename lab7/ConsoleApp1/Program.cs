@@ -17,6 +17,12 @@ class Program
         afisareLista(rez);
         
         Console.WriteLine(FGX(f, g, 3));
+        
+        Func<int, int> y = z => z * 2;
+        Func<int, int> h = z => z - 1;
+
+        var name = Comp(y, h);
+        Console.WriteLine(name(4));
     }
 
     static void afisareLista(List<int> lista)
@@ -60,5 +66,10 @@ class Program
         var f1 = (Func<float, float>)del1;
         var f2 = (Func<float, float>)del2;
         return f1(f2(x));
+    }
+    
+    public static Func<int, int> Comp(Func<int, int> f, Func<int, int> g)
+    {
+        return x => f(g(x));
     }
 }
