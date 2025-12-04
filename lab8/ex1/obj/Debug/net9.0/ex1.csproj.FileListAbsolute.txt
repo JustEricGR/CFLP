@@ -1,0 +1,15 @@
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\bin\Debug\net9.0\ex1.exe
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\bin\Debug\net9.0\ex1.deps.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\bin\Debug\net9.0\ex1.runtimeconfig.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\bin\Debug\net9.0\ex1.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\bin\Debug\net9.0\ex1.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.AssemblyInfoInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.AssemblyInfo.cs
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.sourcelink.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\refint\ex1.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ex1.genruntimeconfig.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab8\ex1\obj\Debug\net9.0\ref\ex1.dll

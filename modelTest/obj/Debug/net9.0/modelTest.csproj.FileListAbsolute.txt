@@ -1,0 +1,15 @@
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.AssemblyInfoInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.AssemblyInfo.cs
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.sourcelink.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\bin\Debug\net9.0\modelTest.exe
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\bin\Debug\net9.0\modelTest.deps.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\bin\Debug\net9.0\modelTest.runtimeconfig.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\bin\Debug\net9.0\modelTest.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\bin\Debug\net9.0\modelTest.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\refint\modelTest.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\modelTest.genruntimeconfig.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\modelTest\obj\Debug\net9.0\ref\modelTest.dll

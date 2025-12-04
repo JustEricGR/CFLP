@@ -1,0 +1,15 @@
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\bin\Debug\net9.0\exuri.exe
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\bin\Debug\net9.0\exuri.deps.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\bin\Debug\net9.0\exuri.runtimeconfig.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\bin\Debug\net9.0\exuri.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\bin\Debug\net9.0\exuri.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.AssemblyInfoInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.AssemblyInfo.cs
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.sourcelink.json
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\refint\exuri.dll
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.pdb
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\exuri.genruntimeconfig.cache
+C:\Users\eric1\Documents\poli\anul3\cflp\CFLP\lab10\exuri\obj\Debug\net9.0\ref\exuri.dll
